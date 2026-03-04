@@ -68,3 +68,16 @@ All PPT output is in **Chinese (中文)**. Skill names and commands are in Engli
 ## Source Document
 
 `data/PPT-数智生活商城商业计划书.pdf` — China Mobile 数智生活商城 Business Plan, August 2025
+
+## Adapting to a New Project
+
+To use this suite for a different company (healthcare, education, home-life, etc.):
+
+1. Drop the new PDF into `data/`
+2. Edit `data/project-config.md`:
+   - Update **Platform** (Name, Company, Industry, Reference PDF path)
+   - Update **Persona Industry Context** line
+   - Replace the **Alignment Terms** with your project's key terminology
+3. Optionally update `核心数据点` in relevant module skills with your PDF's specific data
+
+All 17 skills read `data/project-config.md` at runtime — no other files need editing.
