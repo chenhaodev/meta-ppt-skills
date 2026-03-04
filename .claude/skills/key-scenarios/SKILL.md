@@ -1,7 +1,7 @@
 ---
 name: key-scenarios
 description: >
-  TRIGGER when user invokes /key-scenarios or asks to analyze or write the 重点突破五大场景 section
+  TRIGGER when user invokes /key-scenarios or asks to analyze or write the key scenarios or breakthrough opportunities section
   of a Chinese business plan. Produces Chinese PPT-ready content as a senior SOE manager.
   Supports --style=<name> override.
 ---

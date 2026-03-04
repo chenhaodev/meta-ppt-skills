@@ -1,7 +1,7 @@
 ---
 name: overview
 description: >
-  TRIGGER when user invokes /overview or asks to analyze or write the 商城概览 section
+  TRIGGER when user invokes /overview or asks to analyze or write the overview or introduction section
   of a Chinese business plan. Produces Chinese PPT-ready content as a senior SOE manager.
   Supports --style=<name> override.
 ---

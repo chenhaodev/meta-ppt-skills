@@ -1,7 +1,7 @@
 ---
 name: business-model
 description: >
-  TRIGGER when user invokes /business-model or asks to analyze or write the 推进三种模式转变 section
+  TRIGGER when user invokes /business-model or asks to analyze or write the business model transformation section
   of a Chinese business plan. Produces Chinese PPT-ready content as a senior SOE manager.
   Supports --style=<name> override.
 ---

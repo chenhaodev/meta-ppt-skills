@@ -1,7 +1,7 @@
 ---
 name: positioning
 description: >
-  TRIGGER when user invokes /positioning or asks to analyze or write the 商城定位 section
+  TRIGGER when user invokes /positioning or asks to analyze or write the positioning or market positioning section
   of a Chinese business plan. Produces Chinese PPT-ready content as a senior SOE manager.
   Supports --style=<name> override.
 ---

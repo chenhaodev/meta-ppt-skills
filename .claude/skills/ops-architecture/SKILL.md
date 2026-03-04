@@ -1,7 +1,7 @@
 ---
 name: ops-architecture
 description: >
-  TRIGGER when user invokes /ops-architecture or asks to analyze or write the 商城平台运营架构 section
+  TRIGGER when user invokes /ops-architecture or asks to analyze or write the platform operations architecture section
   of a Chinese business plan. Produces Chinese PPT-ready content as a senior SOE manager.
   Supports --style=<name> override.
 ---

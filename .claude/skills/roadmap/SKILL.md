@@ -1,7 +1,7 @@
 ---
 name: roadmap
 description: >
-  TRIGGER when user invokes /roadmap or asks to analyze or write the 商城目标及实施路径 section
+  TRIGGER when user invokes /roadmap or asks to analyze or write the goals and implementation roadmap section
   of a Chinese business plan. Produces Chinese PPT-ready content as a senior SOE manager.
   Supports --style=<name> override.
 ---

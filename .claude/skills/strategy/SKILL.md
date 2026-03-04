@@ -1,7 +1,7 @@
 ---
 name: strategy
 description: >
-  TRIGGER when user invokes /strategy or asks to analyze or write the 商城发展策略 section
+  TRIGGER when user invokes /strategy or asks to analyze or write the development strategy section
   of a Chinese business plan. Produces Chinese PPT-ready content as a senior SOE manager.
   Supports --style=<name> override.
 ---

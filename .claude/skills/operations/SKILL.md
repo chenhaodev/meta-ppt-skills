@@ -1,7 +1,7 @@
 ---
 name: operations
 description: >
-  TRIGGER when user invokes /operations or asks to analyze or write the 商城运营规划 section
+  TRIGGER when user invokes /operations or asks to analyze or write the operations planning section
   of a Chinese business plan. Produces Chinese PPT-ready content as a senior SOE manager.
   Supports --style=<name> override.
 ---

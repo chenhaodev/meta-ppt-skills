@@ -1,7 +1,7 @@
 ---
 name: tech-architecture
 description: >
-  TRIGGER when user invokes /tech-architecture or asks to analyze or write the 商城平台技术架构 section
+  TRIGGER when user invokes /tech-architecture or asks to analyze or write the platform technology architecture section
   of a Chinese business plan. Produces Chinese PPT-ready content as a senior SOE manager.
   Supports --style=<name> override.
 ---
